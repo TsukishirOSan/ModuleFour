@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 /**For this assignment, complete the following tasks.  For the structs, just include member variables and a constructor. 
  * Do not create properties at this time.  Include all the variables that you have created up to this point in time.
-
+ *
  * Create a struct to represent a student
  * Create a struct to represent a teacher
  * Create a struct to represent a program
